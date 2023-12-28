@@ -1,0 +1,17 @@
+// 1 * 2 * 3 / 2 = 3
+0H	4A;
+1H	2B;
+2H	2C;
+3H	3D;
+4H	E0;
+5H	F0;
+6H	FF;
+7H	FF;
+8H	FF;
+9H	FF;
+AH	01;
+BH	02;
+CH	03;
+DH	02;
+EH	FF;
+FH	FF;

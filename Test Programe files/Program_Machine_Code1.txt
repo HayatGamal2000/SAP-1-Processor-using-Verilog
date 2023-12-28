@@ -1,0 +1,17 @@
+// 1+2+3 - 6 + 5 = 5  //USING JZ
+0H	4A;
+1H	0B;
+2H	0C;
+3H	1D;
+4H	57;
+5H	E0;
+6H	F0;
+7H	0E;
+8H	E0;
+9H	F0;
+AH	01;
+BH	02;
+CH	03;
+DH	06;
+EH	05;
+FH	FF;
